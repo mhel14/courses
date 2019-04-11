@@ -1,38 +1,34 @@
 {
-  "courses": [
+  "units": [
     {
-      "Certificate I in Business": [
-        {
-          "unit-code": "BSBADM101",
-          "unit-name": "Use business equipment and resources",
-          "status": "In Progress"
-        },
-        {
-          "unit-code": "BSBCM101",
-          "unit-name": "Apply basic communication skills",
-          "status": "In Progress"
-        },
-        {
-          "unit-code": "BSBIND201",
-          "unit-name": "Work effectively in business environment",
-          "status": "In Progress"
-        },
-        {
-          "unit-code": "BSBITU111",
-          "unit-name": "Operate a personal digital device",
-          "status": "In Progress"
-        },
-        {
-          "unit-code": "BSBITU112",
-          "unit-name": "Develop keyboard skills",
-          "status": "In Progress"
-        },
-        {
-          "unit-code": "BSBITU211",
-          "unit-name": "Produce digital text documents",
-          "status": "In Progress"
-        }
-      ]
+      "unit-code": "BSBADM101",
+      "unit-name": "Use business equipment and resources",
+      "status": "In Progress"
+    },
+    {
+      "unit-code": "BSBCM101",
+      "unit-name": "Apply basic communication skills",
+      "status": "In Progress"
+    },
+    {
+      "unit-code": "BSBIND201",
+      "unit-name": "Work effectively in business environment",
+      "status": "In Progress"
+    },
+    {
+      "unit-code": "BSBITU111",
+      "unit-name": "Operate a personal digital device",
+      "status": "In Progress"
+    },
+    {
+      "unit-code": "BSBITU112",
+      "unit-name": "Develop keyboard skills",
+      "status": "In Progress"
+    },
+    {
+      "unit-code": "BSBITU211",
+      "unit-name": "Produce digital text documents",
+      "status": "In Progress"
     }
   ]
 }
